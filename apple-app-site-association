@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "43UX68JTB9.us.nutson.development",
+                "paths": ["*"]
+            }
+        ]
+    }
+}
